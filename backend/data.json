@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Afador",
+        "description": "The Afador is a mixed breed dog – a cross between the Afghan Hound and Labrador Retriever dog breeds. Loyal, energetic, and affectionate, these pups inherited some of the best qualities from both of their parents.",
+        "img": "https://dogtime.com/assets/uploads/2019/08/afador-mixed-dog-breed-pictures-cover.jpg"
+    },
+    {
+        "name": "Affenpinscher",
+        "description": "Dogs of the Affenpinscher breed were originally created to act as ratters in homes, stables, and shops. Bred down in size, they moved up in the world, becoming ladies’ companions. Today, they are happy, mischievous companion dogs.",
+        "img": "https://dogtime.com/assets/uploads/2011/01/file_23096_affenpinscher-460x290.jpg"
+    },
+    {
+        "name": "Alaskan Malamute", 
+        "description": "The Alaskan Malamute features a powerful, sturdy body built for stamina and strength. It reigns as one of the oldest dog breeds whose original looks have not been significantly altered. This intelligent canine needs a job and consistent leadership to avoid becoming bored or challenging to handle.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Alaskan_Malamute.jpg/235px-Alaskan_Malamute.jpg"
+    },
+    {
+        "name": "Bavarian Mountain Scent Hound",
+        "description": "The Bavarian Mountain Scent Hound is a purebred dog originally from Germany. These pups are loyal, intelligent, and reserved, which are some of the best traits for a Hound dog breed.",
+        "img": "https://dogtime.com/assets/uploads/2019/09/Bavarian-Mountain-Scent-Hound-dog-breed-pictures-cover.jpg"
+    },
+    {
+        "name": "Beaglier",
+        "description": "The Beaglier is a mixed breed dog — a cross between the Beagle and Cavalier King Charles Spaniel dog breeds. Compact, energetic, and loyal, these pups inherited some of the best qualities from both of their parents.",
+        "img": "https://dogtime.com/assets/uploads/2019/11/beaglier-mixed-dog-breed-pictures-cover.jpg"
+    },
+    {
+        "name": "Bernese Mountain Dog",
+        "description": "The Bernese Mountain Dog is an extremely versatile working dog from the farmlands of Switzerland. They were developed to herd cattle, pull carts, and be watchdogs and loyal companions. They’re one of four types of Swiss Mountain Dogs, and the only one with long hair.",
+        "img": "https://dogtime.com/assets/uploads/2011/01/file_22912_bernese-mountain-dog-460x290.jpg"
+    },
+    {
+        "name": "Australian Shepherd Lab Mix",
+        "description": "The Australian Shepherd Lab Mix is a mixed breed dog — a cross between the Australian Shepherd and the Labrador Retriever dog breeds. Medium in size, energetic, and loyal, these pups inherited some amazing traits from both of their parents.",
+        "img": "https://dogtime.com/assets/uploads/2019/12/australian-shepherd-lab-mixed-dog-breed-pictures-cover.jpg"
+    },
+    {
+        "name": "Australian Shepherd",
+        "description": "Despite their name, the Australian Shepherd dog breed originated in the western United States, not Australia, around the time of the Gold Rush in the 1840s. Originally bred to herd livestock, they remain a working dog at heart.",
+        "img": "https://dogtime.com/assets/uploads/2011/01/file_23168_australian-shepherd-460x290.jpg"
+    },
+    {
+        "name": "Chesapeake Bay Retriever",
+        "description": "The Chesapeake Bay Retriever dog breed originated as a water dog used to hunt and retrieve ducks in the chilly chop of Maryland’s Chesapeake Bay. The dog’s sturdy build, dense coat, stamina, and strength made them ideal for this purpose.",
+        "img": "https://dogtime.com/assets/uploads/2011/01/file_22958_chesapeake-bay-retriever-460x290.jpg"
+    },
+    {
+        "name": "Dachsador",
+        "description": "The Dachsador is a mixed breed dog–a cross between the Dachshund and Labrador Retriever dog breeds. Lively, active, and friendly, these pups inherited some of the best qualities from both of their parents.",
+        "img": "https://dogtime.com/assets/uploads/2019/09/dachsador-mixed-dog-breed-pictures-cover.jpg"
+    }
+
+]
